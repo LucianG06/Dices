@@ -1,16 +1,23 @@
-# zaruri
+# Dices
 
-A new Flutter project.
+An app that rolls 2 dices.  
+Features:
+- a history page where you can see all the rolls;
+- you can roll the dices by shaking your phone;
+- your phone vibrate when you roll a double;
+- splash screen;
+- a pop-up when you roll a double.
 
-## Getting Started
+### How the app looks like
+<p float="left">
+    <img alt="drawing" src="/assets/images/readme_splash_screen.jpeg" height="300"/>
+    <img alt="drawing" src="/assets/images/readme_screen1.jpeg" height="300"/>
+    <img alt="drawing" src="/assets/images/readme_double.jpeg" height="300"/>
+    <img alt="drawing" src="/assets/images/readme_empty_history.jpeg" height="300"/>
+    <img alt="drawing" src="/assets/images/readme_history.jpeg" height="300"/>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/73985091/168485671-dfe82566-0300-4bee-8795-b94c1107046c.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
